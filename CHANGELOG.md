@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/iforge-uos/slicer-config/compare/v2.2.1...v2.3.0) (2023-02-21)
+
+
+### Features
+
+* removed ulti profiles + twiddled petg ([4704086](https://github.com/iforge-uos/slicer-config/commit/47040869dfeaf798c32d2d2827043618128fc628))
+
 ## [2.2.1](https://github.com/iforge-uos/slicer-config/compare/v2.2.0...v2.2.1) (2022-09-20)
 
 
